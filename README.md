@@ -15,6 +15,7 @@ The project involves creating specific data frames based on predefined criteria 
 - **Fields**: Name, Gender, Track, Math Score.
 - **Hometown**: Constantly set to 'Visayas'.
 - **Output Example**:
+  
 | Name | Gender | Track           | Math |
 |------|--------|-----------------|------|
 | S4   | Male   | Instrumentation | 65   |
